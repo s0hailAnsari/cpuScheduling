@@ -1,6 +1,14 @@
 # depslib dependency file v1.0
-1586699139 source:c:\users\sohailansari\desktop\cpuscheduler\main.cpp
+1586702232 source:c:\users\sohailansari\desktop\cpuscheduler\main.cpp
+	<iostream>
+	<firstComeFirstServe.h>
+
+1586702141 source:c:\users\sohailansari\desktop\cpuscheduler\src\firstcomefirstserve.cpp
+	"firstComeFirstServe.h"
 	<iostream>
 	<queue>
 	<vector>
+	<firstComeFirstServe.h>
+
+1586701452 c:\users\sohailansari\desktop\cpuscheduler\include\firstcomefirstserve.h
 
