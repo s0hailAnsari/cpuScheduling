@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586699139 source:c:\users\sohailansari\desktop\cpuscheduler\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+
